@@ -1,11 +1,10 @@
 # Telegram Spam Bot (Educational Example)
 
 This repository contains a simple Python script that demonstrates how to use the [Telegram Bot API](https://core.telegram.org/bots/api) to send repeated messages to a chat.  
-⚠️ **Important:** This is for **educational purposes only**. Do **not** use it to harass, spam, or attack others. Misuse can get your bot banned.
+ **Important:** This is for **educational purposes only**. Do **not** use it to harass, spam, or attack others. Misuse can get your bot banned.
 
----
 
-## ⚙️ Requirements
+##Requirements
 
 - Python 3.x
 - The [`requests`](https://pypi.org/project/requests/) library
